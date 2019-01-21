@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;time&apos; in &apos;com.softart.domain.Word.calculateRelationScore()&apos; to &apos;timeCur&apos;&#x0D;&#x0A;- Original project: &apos;WebServer&apos;&#x0D;&#x0A;- Original element: &apos;com.softart.domain.Word.calculateRelationScore().time&apos;&#x0D;&#x0A;- Renamed element: &apos;time&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;time&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;com.softart.domain{Word.java[Word~calculateRelationScore@time!3114!3308!3119!3122!QDate;!0!false" name="timeCur" references="true" stamp="1466155710668" version="1.0"/>
+</session>

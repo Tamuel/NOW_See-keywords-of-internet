@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:alpha="0"
+        android:id="@+id/markImageView"
+        android:src="@drawable/now_mark"
+        android:layout_width="@dimen/mark_size"
+        android:layout_height="@dimen/mark_size_small" />
+
+    <TextView
+        android:text="by YDK"
+        android:textSize="@dimen/font_size_middle"
+        android:layout_marginBottom="@dimen/mark_size_small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
