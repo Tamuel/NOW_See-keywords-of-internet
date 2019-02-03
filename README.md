@@ -14,5 +14,5 @@ Spring server and android client for see the current keywords of internet.\
 
 
 ## Libraries and API
-* KAIST SWRC연구실 한나눔 형태소 분석기 : http://semanticweb.kaist.ac.kr/home/index.php/HanNanum
-* 네이버 Open API : https://developers.naver.com/products/search/
+* [KAIST SWRC연구실 한나눔 형태소 분석기](http://semanticweb.kaist.ac.kr/home/index.php/HanNanum)
+* [네이버 Open API](https://developers.naver.com/products/search/)
