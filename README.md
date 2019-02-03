@@ -12,6 +12,8 @@ Spring server and android client for see the current keywords of internet.\
 ## Score Formula
 ![formula_screenshot](https://github.com/Tamuel/NOW_See-the-keywords-of-internet/blob/master/Now_formula.png)
 
+## Video
+* Youtube : https://www.youtube.com/watch?v=lwkH2MXAVf0
 
 ## Libraries and API
 * [Spring Framework](https://spring.io/)
