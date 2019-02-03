@@ -1,7 +1,7 @@
 # NOW - See keywords of internet!
 Spring server and android client for see the current keywords of internet.\
 현재 인터넷의 키워드를 알기 쉽게 보여주는 안드로이드 어플리케이션과 스프링 프레임워크 서버입니다.\
-키워들 추출을 위한 형태소 분석기에 KAIST Semantic Web Research Center (SWRC) 연구실의 "한나눔 형태소 분석기"를 사용하였습니다.
+키워들 추출을 위한 형태소 분석기에 KAIST SWRC 연구실의 "한나눔 형태소 분석기"를 사용하였습니다.
 
 ## Screenshot
 * Application
